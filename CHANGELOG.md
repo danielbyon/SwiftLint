@@ -45,6 +45,10 @@
   [Marcelo Fabri](https://github.com/marcelofabri)
   [#1597](https://github.com/realm/SwiftLint/issues/1597)
 
+* Fix custom rules not working correctly with comment commands.  
+  [JP Simard](https://github.com/jpsim)
+  [#1558](https://github.com/realm/SwiftLint/issues/1558)
+
 ## 0.19.0: Coin-Operated Machine
 
 ##### Breaking
